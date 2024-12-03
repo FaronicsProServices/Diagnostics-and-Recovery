@@ -11,10 +11,7 @@ Subcategories:
 •	Recovery:
 1.	Fetch WINRE Status
 2.	Enable/Disable WINRE
-
-•	Restore Point:
-1.	Create a Restore Point
-2.	Restore from the most recent Restore Point
-3.	Fetch All Restore Points
-
+3.	Create a Restore Point
+4.	Restore from the most recent Restore Point
+5.	Fetch All Restore Points
 
